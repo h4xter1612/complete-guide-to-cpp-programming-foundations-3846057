@@ -8,3 +8,5 @@ npm-debug.log
 *.bin
 *.o
 *.obj
+*
+!*.* 
